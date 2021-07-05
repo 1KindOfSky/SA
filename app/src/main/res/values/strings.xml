@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SA Recording</string>
+
+    <string-array name="SpinnerValues">
+        <item>No Filter</item>
+        <item>1 Month</item>
+        <item>3 Months</item>
+        <item>6 Months</item>
+
+    </string-array>
+</resources>
